@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TSARandomizer</string>
+    <string name="random">Random Arrow</string>
+    <string name="instructions">Press the screen to generate a random arrow.</string>
+</resources>
